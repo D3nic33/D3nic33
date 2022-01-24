@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Denice's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3nic33)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **D3nic33/D3nic33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
