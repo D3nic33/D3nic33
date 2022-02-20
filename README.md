@@ -8,3 +8,7 @@ I am a software engineer with a passion for front-end development.
 **I am currently learning React**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=to-do-app&hide_border=true&title_color=a897f9)](https://github.com/D3nic33/to-do-app)
+
+**What programming languages have I been using?**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3nic33&hide_border=true&title_color=a897f9)
