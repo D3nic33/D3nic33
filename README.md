@@ -23,7 +23,7 @@ I am a full-stack developer with a passion for front-end development.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=news-app&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/news-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=portfolio&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/portfolio)
 
-**This week I spend my time on**
+**Weekly development breakdown**
 
 <!--START_SECTION:waka-->
 
