@@ -1,11 +1,29 @@
 ### Hi I'm Denice 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-a897f9?style=flat-square&logo=LinkedIn)](https://nl.linkedin.com/in/denice-van-den-steen-479658159)
 
-I am a software engineer with a passion for front-end development.
+I am a full-stack developer with a passion for front-end development.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=D3nic33&hide_title=true&hide=contribs,issues&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_border=true&disable_animations=true&icon_color=a897f9)](https://github.com/D3nic33)
+**Languages and tools I code with**
+
+<div>
+  <img src="https://img.shields.io/badge/React-9EAE8E?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-9EAE8E?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-9EAE8E?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-9EAE8E?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-9EAE8E?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-9EAE8E?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-9EAE8E?style=flat-square&logo=prettier&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-9EAE8E?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/eslint-9EAE8E?style=flat-square&logo=eslint&logoColor=white" />
+</div>
+
+<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=D3nic33&hide_title=true&hide=contribs,issues&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_border=true&disable_animations=true&icon_color=9EAE8E)](https://github.com/D3nic33)-->
 
 **I am currently learning React**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=to-do-app&hide_border=true&title_color=a897f9)](https://github.com/D3nic33/to-do-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=news-app&hide_border=true&title_color=a897f9)](https://github.com/D3nic33/news-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=to-do-app&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/to-do-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=news-app&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/news-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=portfolio&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/portfolio)
+
+**Contact Me**
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-9EAE8E?style=flat-square&logo=LinkedIn)](https://nl.linkedin.com/in/denice-van-den-steen-479658159)
