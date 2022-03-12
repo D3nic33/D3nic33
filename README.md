@@ -26,4 +26,9 @@ I am a full-stack developer with a passion for front-end development.
 **This week I spend my time on**
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
