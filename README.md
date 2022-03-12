@@ -24,6 +24,9 @@ I am a full-stack developer with a passion for front-end development.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=news-app&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/news-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=portfolio&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/portfolio)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 **Contact Me**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-9EAE8E?style=flat-square&logo=LinkedIn)](https://nl.linkedin.com/in/denice-van-den-steen-479658159)
