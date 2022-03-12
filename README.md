@@ -1,10 +1,11 @@
 ### Hi I'm Denice 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-9EAE8E?style=flat-square&logo=LinkedIn)](https://nl.linkedin.com/in/denice-van-den-steen-479658159)
 
 I am a full-stack developer with a passion for front-end development.
 
 **Languages and tools I code with**
 
-<div>
+<p>
   <img src="https://img.shields.io/badge/React-9EAE8E?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-9EAE8E?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-9EAE8E?style=flat-square&logo=css3&logoColor=white" />
@@ -14,9 +15,7 @@ I am a full-stack developer with a passion for front-end development.
   <img src="https://img.shields.io/badge/Prettier-9EAE8E?style=flat-square&logo=prettier&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-9EAE8E?style=flat-square&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/eslint-9EAE8E?style=flat-square&logo=eslint&logoColor=white" />
-</div>
-
-<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=D3nic33&hide_title=true&hide=contribs,issues&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_border=true&disable_animations=true&icon_color=9EAE8E)](https://github.com/D3nic33)-->
+</p>
 
 **I am currently learning React**
 
@@ -24,9 +23,7 @@ I am a full-stack developer with a passion for front-end development.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=news-app&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/news-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=portfolio&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/portfolio)
 
+**This week I spend my time on**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-**Contact Me**
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-9EAE8E?style=flat-square&logo=LinkedIn)](https://nl.linkedin.com/in/denice-van-den-steen-479658159)
