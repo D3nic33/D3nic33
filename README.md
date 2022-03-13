@@ -28,7 +28,9 @@ I am a full-stack developer with a passion for front-end development.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 March 2022 - To: 12 March 2022
+
+JavaScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
