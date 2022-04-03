@@ -9,6 +9,7 @@ I am a full-stack developer with a passion for front-end development.
   <img src="https://img.shields.io/badge/React-9EAE8E?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-9EAE8E?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-9EAE8E?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-9EAE8E?style=flat-square&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-9EAE8E?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-9EAE8E?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-9EAE8E?style=flat-square&logo=git&logoColor=white" />
