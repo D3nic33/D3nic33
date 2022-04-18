@@ -1,27 +1,27 @@
 ### Hi I'm Denice 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-9EAE8E?style=flat-square&logo=LinkedIn)](https://nl.linkedin.com/in/denice-van-den-steen-479658159)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-A18461?style=flat-square&logo=LinkedIn)](https://nl.linkedin.com/in/denice-van-den-steen-479658159)
 
 I am a full-stack developer with a passion for front-end development.
 
 **Languages and tools I code with**
 
 <p>
-  <img src="https://img.shields.io/badge/React-9EAE8E?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-9EAE8E?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-9EAE8E?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-9EAE8E?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-9EAE8E?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-9EAE8E?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-9EAE8E?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-9EAE8E?style=flat-square&logo=prettier&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-9EAE8E?style=flat-square&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/eslint-9EAE8E?style=flat-square&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-A18461?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-A18461?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-A18461?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-A18461?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-A18461?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-A18461?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-A18461?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-A18461?style=flat-square&logo=prettier&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-A18461?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/eslint-A18461?style=flat-square&logo=eslint&logoColor=white" />
 </p>
 
 **I am currently learning React**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=to-do-app&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/to-do-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=news-app&hide_border=true&title_color=9EAE8E)](https://github.com/D3nic33/news-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=to-do-app&hide_border=true&title_color=BD9560)](https://github.com/D3nic33/to-do-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=news-app&hide_border=true&title_color=BD9560)](https://github.com/D3nic33/news-app)
 
 **Weekly development breakdown**
 
