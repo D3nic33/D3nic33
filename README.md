@@ -46,9 +46,9 @@ I am a full-stack developer with a passion for front-end development.
 
 **I am currently learning React**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=to-do-app&hide_border=true&title_color=BD9560)](https://github.com/D3nic33/to-do-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=news-app&hide_border=true&title_color=BD9560)](https://github.com/D3nic33/news-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=webshop&hide_border=true&title_color=BD9560)](https://github.com/D3nic33/webshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=movie-webapp&hide_border=true&title_color=BD9560)](https://github.com/D3nic33/movie-webapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3nic33&repo=to-do-app&hide_border=true&title_color=BD9560)](https://github.com/D3nic33/to-do-app)
 
 **Weekly development breakdown**
 
