@@ -9,6 +9,9 @@ I am a full-stack developer with a passion for front-end development.
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-A18461?style=flat-square&logo=react&logoColor=white" />
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/next.js-A18461?style=flat-square&logo=next.js&logoColor=white" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML-A18461?style=flat-square&logo=html5&logoColor=white" />
   </a>
@@ -23,6 +26,9 @@ I am a full-stack developer with a passion for front-end development.
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Javascript-A18461?style=flat-square&logo=javascript&logoColor=white" />
+  </a>
+  <a href="https://strapi.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/strapi-A18461?style=flat-square&logo=strapi&logoColor=white" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-A18461?style=flat-square&logo=git&logoColor=white" />
