@@ -55,11 +55,7 @@ I am a full-stack developer with a passion for front-end development.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2022 - To: 28 May 2022
-
-JavaScript       1 hr 39 mins    ██████████████████▓░░░░░░   74.80 %
-CSS              29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
