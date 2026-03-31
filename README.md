@@ -130,7 +130,7 @@ I'm a firm believer that you never stop learning — whether that's a new framew
  
 <div align="center">
  
-Feel free to explore my repos, open an issue, or just say hi! I'm always happy to collaborate on something fun. 🙌
+Feel free to explore my repos, open an issue, or just say hi! 🙌
  
 [![GitHub](https://img.shields.io/badge/GitHub-D3nic33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3nic33)
  
