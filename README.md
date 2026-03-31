@@ -120,24 +120,6 @@ const denice = {
 
 ---
  
-## 📊 GitHub Stats
- 
-<div align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api?username=D3nic33&show_icons=true&theme=default&hide_border=true&title_color=7C3AED&icon_color=7C3AED" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3nic33&layout=compact&theme=default&hide_border=true&title_color=7C3AED" height="160"/>
- 
-</div>
- 
-<div align="center">
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=D3nic33&theme=default&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="500"/>
- 
-</div>
- 
----
- 
 ## 🌱 Always Learning
  
 I'm a firm believer that you never stop learning — whether that's a new framework, a new design pattern, or a new book genre. Right now I'm deepening my full-stack skills and making things that spark joy ✨
